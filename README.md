@@ -1,4 +1,4 @@
 # pineapple-
 A practice Git-hub repo 
 
-hello 
+hello jared is smelly
